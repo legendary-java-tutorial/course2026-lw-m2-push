@@ -1,5 +1,5 @@
 {
-  "theme": "Кссмос",
+  "theme": "Горные реки",
   "greeting": "Режимы: classic, quick",
   "modes": {
     "quick": {
@@ -12,8 +12,8 @@
     "classic": {
       "min": 1,
       "max": 100,
-      "higher": "вышэ бери!",
-      "lower": "нижэ бери!",
+      "higher": "выше бери!",
+      "lower": "ниже бери!",
       "win": "угадал!"
     }
   }
